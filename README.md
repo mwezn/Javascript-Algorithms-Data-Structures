@@ -1,3 +1,3 @@
 # Javascript-Algorithms-Data-Structures
 
-These are the projects required for the Javascript Algorithms & Data Structures certification
+These are my solutions that were required to gain the Javascript Algorithms & Data Structures certification
